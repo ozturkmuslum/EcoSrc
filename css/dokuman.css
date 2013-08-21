@@ -1,0 +1,89 @@
+﻿.kys-kolon1 {
+    width: 130px;
+    border-right: 1px solid dimgray;
+}
+
+.kys-kolon2 {
+  
+}
+
+.kys-satir {
+    padding: 3px;
+}
+
+.kys-baslik {
+    width: 100px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+}
+.kys-ara {
+    font-weight: bold;
+    vertical-align: top;
+}
+.kys-bilgiler {
+    margin-left: 30px;
+
+}
+.kys-deger {
+    padding-left: 5px;
+    vertical-align: top;
+}
+
+.kys-icon {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.kys-hits {
+    margin-top: 10px;
+    text-align: center;
+}
+.kys-hits span {
+    font-weight: bold;
+}
+
+.kys-description {
+    display: inline-block;
+    width: 280px;
+}
+
+/*.kys-btn {
+    display: inline-block;
+    background: url("/_layouts/1033/images/SPYazKys/btn-bg.png") repeat-x 0 0;
+    height: 25px;
+    padding: 3px;
+    border-radius: 2px;
+}*/
+
+#kys-tbl-ust-menu {
+    float: right;
+    border: none;
+    font-size: 12px;
+}
+
+#kys-tbl-ust-menu td {
+    padding: 3px;
+    font-size: 120% !important;
+}
+
+#kys-tbl-ust-menu td a:visited {
+    color: #0072BC !important;
+    
+}
+
+.ui-accordion-header  h3{
+    font-size: 100% !important;
+}
+
+.notaccordion h3 {
+    font-size: 100% !important;
+}
+.kys-bolme {
+    color: #0072BC !important;
+}
+
+.notaccordion h3 a {
+    color: black !important;
+}
+
